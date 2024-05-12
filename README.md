@@ -24,7 +24,9 @@
 
 ## Step-by-Step Explanation
 
-This code is a comprehensive set of functions and scripts for performing various image processing and computer vision tasks, particularly focused on traffic sign recognition. Let's break down the code into sections and provide a brief explanation of each part.
+This code is a comprehensive set of functions and scripts for performing various image processing and computer vision tasks, particularly focused on traffic sign recognition. 
+
+Let's break down the code into sections and provide a brief explanation of each part.
 
 ### 1. Importing Libraries and Setting Directories
 ```python
